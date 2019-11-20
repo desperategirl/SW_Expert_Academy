@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;D1.SW_06_11119&apos; to &apos;SW_06_191119&apos;&#x0D;&#x0A;- Original project: &apos;SW_D1&apos;&#x0D;&#x0A;- Original element: &apos;D1.SW_06_11119&apos;&#x0D;&#x0A;- Renamed element: &apos;D1.SW_06_191119&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SW_06_11119&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;D1{SW_06_11119.java[SW_06_11119" matchStrategy="1" name="SW_06_191119" qualified="false" references="true" similarDeclarations="false" stamp="1574262756816" textual="false" version="1.0"/>
+</session>

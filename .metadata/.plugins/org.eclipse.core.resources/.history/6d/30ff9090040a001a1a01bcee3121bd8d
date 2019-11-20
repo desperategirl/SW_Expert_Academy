@@ -1,0 +1,30 @@
+package D1;
+
+public class SW_01_191118 {
+
+	public static void main(String[] args) {
+		
+		// 8부터 0까지 순서대로 출력해보기
+		
+		/* 잘 모르겠어서 0부터 9까지 출력해봤다
+		 * 1. 변수 선언을 반복문 밖에서 먼저 하고
+		 * 2. for문 안에서 초기화를 하고, 조건식을 넣고 , 증감식 넣음
+		 *  
+		int i;
+		for(i = 0; i < 10 ; i++) {
+			System.out.println(i);
+		}
+		*/
+		
+		// 비슷한 방식으로 8부터 0까지 출력해 보자
+		
+		int i ;
+		for(i = 8; i > 0; i-- ) {
+			System.out.println(i);
+		}
+		
+		
+	
+		
+	}
+}

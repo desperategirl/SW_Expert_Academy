@@ -1,0 +1,29 @@
+package D1;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class SW_10_191120 {
+
+	// 하나의 자연수를 입력 받아 
+	// 각 자릿수의 합을 계산하는 프로그램을 작성하라.
+
+	// [제약 사항] 자연수 N은 1부터 9999까지의 자연수이다. (1 ≤ N ≤ 9999)
+
+	// [입력] 입력으로 자연수 N이 주어진다.  ex) 6789
+	// [출력] 각 자릿수의 합을 출력한다. ex) 30
+	
+	/*
+	 * 내가 생각한 풀이 방법 : 
+	 * int 변수를 ""로 쪼개서 배열로 만든 후
+	 * 그 배열을 int로 바꾸고 그 int들을 모두 더하는 방법
+	 */
+	
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+
+}
